@@ -1,0 +1,4 @@
+apps:
+  foo:
+    path: path of the foo application
+    adapter: ruby
